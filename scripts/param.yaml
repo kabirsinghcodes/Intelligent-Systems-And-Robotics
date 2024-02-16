@@ -1,0 +1,11 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_kabir_virtualbox__45125: http://kabir-VirtualBox:45125/
+rosversion: '1.16.0
+
+  '
+run_id: f0fae18a-cd0d-11ee-8fc4-ab938d751b18
+wheel_radius: 0.155
